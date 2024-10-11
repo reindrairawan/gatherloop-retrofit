@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="name">Masukan Nama Anda</string>
+    <string name="email">Masukan Email Anda</string>
+    <string name="password">Masukan Password Anda</string>
+
+</resources>
